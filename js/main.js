@@ -1,7 +1,7 @@
 // main.js
 
 const serverUrl = "https://7l7zk4ee6c32.usemoralis.com:2053/server";
-const appId = "TjkAU0dxioTnLRM0J0jPUpCob6iZBKDD5YR6DD9E";
+const appId = "#";
 Moralis.start({ serverUrl, appId });
 
 /** Add from here down */
